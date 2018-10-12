@@ -34,6 +34,13 @@ body{
     text-align: center;
     padding: 80px;
 }
-.container5{
-  background-color: blue;
+
+.header{
+  background-color: green
+
 }
+footer {
+   background-color: #555;
+   color: white;
+   padding: 15px;
+ }
