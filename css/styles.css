@@ -11,3 +11,7 @@ h2 {
   text-align: center;
   font-size: 40px
 }
+.sidebar {
+  width: 80%;
+  background-color: #ced4dd;
+}
